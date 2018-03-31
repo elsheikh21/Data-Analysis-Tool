@@ -1,0 +1,10 @@
+C:\Users\Sheikh\documents\visual studio 2015\Projects\Statistics Tool\Statistics Tool\obj\Debug\Statistics_Tool.Histogram.resources
+C:\Users\Sheikh\documents\visual studio 2015\Projects\Statistics Tool\Statistics Tool\obj\Debug\Statistics_Tool.MainForm.resources
+C:\Users\Sheikh\documents\visual studio 2015\Projects\Statistics Tool\Statistics Tool\obj\Debug\Statistics Tool.csproj.GenerateResource.Cache
+C:\Users\Sheikh\documents\visual studio 2015\Projects\Statistics Tool\Statistics Tool\obj\Debug\Statistics Tool.csprojResolveAssemblyReference.cache
+C:\Users\Sheikh\documents\visual studio 2015\Projects\Statistics Tool\Statistics Tool\bin\Debug\Data Analysis Tool.exe.config
+C:\Users\Sheikh\documents\visual studio 2015\Projects\Statistics Tool\Statistics Tool\bin\Debug\Data Analysis Tool.exe
+C:\Users\Sheikh\documents\visual studio 2015\Projects\Statistics Tool\Statistics Tool\bin\Debug\Data Analysis Tool.pdb
+C:\Users\Sheikh\documents\visual studio 2015\Projects\Statistics Tool\Statistics Tool\obj\Debug\Data_Analysis_Tool.Properties.Resources.resources
+C:\Users\Sheikh\documents\visual studio 2015\Projects\Statistics Tool\Statistics Tool\obj\Debug\Data Analysis Tool.exe
+C:\Users\Sheikh\documents\visual studio 2015\Projects\Statistics Tool\Statistics Tool\obj\Debug\Data Analysis Tool.pdb
