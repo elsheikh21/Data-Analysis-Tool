@@ -9,6 +9,14 @@ Main Form:
 Histogram Form:
 
 ![Histogram](https://github.com/elsheikh21/Data-Analysis-Tool/blob/master/App%20Histogram%20frontend.png)
+
+Notification Toast:
+
+![Notification](https://github.com/elsheikh21/Data-Analysis-Tool/blob/master/Notification%20Toast.png)
+
+Help Button:
+![help Button](https://github.com/elsheikh21/Data-Analysis-Tool/blob/master/The%20Histogram.PNG)
+
 ---
 
 ## Measure of Centers
@@ -32,9 +40,5 @@ Histogram Form:
 
 ## Future Work
 
-1. Mode Value part is not useful, to be fixed.
-2. On clicking any of the labels, a tooltip will pop up explaining it
-3. New notifications system (like message toast)
-4. Help button in Histogram form to explain how to draw and what data can be fetched from a histogram
-5. Form where box plot of the dataset can be drawn
-6. Help button like the histogram's form
+1. Form where box plot of the dataset can be drawn
+2. Help button to explain boxplot
