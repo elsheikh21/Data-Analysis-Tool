@@ -15,6 +15,7 @@ Notification Toast:
 ![Notification](https://github.com/elsheikh21/Data-Analysis-Tool/blob/master/Notification%20Toast.png)
 
 Help Button:
+
 ![help Button](https://github.com/elsheikh21/Data-Analysis-Tool/blob/master/The%20Histogram.PNG)
 
 ---
