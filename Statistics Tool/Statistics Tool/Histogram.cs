@@ -25,7 +25,7 @@ namespace Statistics_Tool
         private void DrawHistogram(Graphics gr, Color back_color, double[] values, int width, int height)
         {
             //Color[] Colors = new Color[] { Color.Red, Color.LightGreen, Color.Blue, Color.Pink, Color.Green, Color.LightBlue, Color.Orange, Color.Yellow, Color.Purple };
-            Color[] Colors = new Color[] { Color.FromArgb(5,11,230) };
+            Color[] Colors = new Color[] { Color.FromArgb(5, 11, 230) };
 
             gr.Clear(back_color);
 
@@ -60,7 +60,8 @@ namespace Statistics_Tool
             // Determine which data value was clicked.
             float bar_wid = picHisto.ClientSize.Width / (int)DataValues.Length;
             int i = (int)(e.X / bar_wid);
-            MessageBox.Show(string.Format("Bar {0} has value of {1}", i + 1, DataValues[i]), "Statistics Tool", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            Notification toast = new Notification("Data Analysis Tool", string.Format("Bar {0} has value of {1}", i + 1, DataValues[i]), 2, FormAnimator.AnimationMethod.Slide, FormAnimator.AnimationDirection.Right);
+            toast.Show();
         }
 
         // Draw the histogram.
@@ -73,6 +74,12 @@ namespace Statistics_Tool
         {
             MainForm mainForm = new MainForm();
             mainForm.Show();
+        }
+
+        private void Histogram_HelpButtonClicked(object sender, CancelEventArgs e)
+        {
+            Notification toast = new Notification("Data Analysis Tool", " A histogram provides a snapshot of all the data, making it a quick way to get the big picture of the data. \n A histogram, the bars connect to each other — as opposed to a bar graph for categorical data, where the bars represent categories that don’t have a particular order, and are separated. The height of each bar of a histogram represents either the number of individuals (called the frequency) in each group or the percentage of individuals (the relative frequency) in each group", 2, FormAnimator.AnimationMethod.Roll, FormAnimator.AnimationDirection.Left);
+            toast.Show();
         }
     }
 }

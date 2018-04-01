@@ -37,8 +37,9 @@
             // 
             this.picHisto.Dock = System.Windows.Forms.DockStyle.Fill;
             this.picHisto.Location = new System.Drawing.Point(0, 0);
+            this.picHisto.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.picHisto.Name = "picHisto";
-            this.picHisto.Size = new System.Drawing.Size(714, 603);
+            this.picHisto.Size = new System.Drawing.Size(536, 490);
             this.picHisto.TabIndex = 0;
             this.picHisto.TabStop = false;
             this.picHisto.Paint += new System.Windows.Forms.PaintEventHandler(this.picHisto_Paint);
@@ -46,15 +47,18 @@
             // 
             // Histogram
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(714, 603);
+            this.ClientSize = new System.Drawing.Size(536, 490);
             this.Controls.Add(this.picHisto);
+            this.HelpButton = true;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Histogram";
             this.Text = "Histogram";
+            this.HelpButtonClicked += new System.ComponentModel.CancelEventHandler(this.Histogram_HelpButtonClicked);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Histogram_FormClosed);
             ((System.ComponentModel.ISupportInitialize)(this.picHisto)).EndInit();
             this.ResumeLayout(false);

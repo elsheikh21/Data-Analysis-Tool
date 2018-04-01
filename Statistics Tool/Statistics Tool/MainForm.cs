@@ -81,7 +81,8 @@ namespace Statistics_Tool
             }
             else
             {
-                MessageBox.Show("There is something wrong with your entries.", "Statistics Tool", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                Notification toast = new Notification("Data Analysis Tool", "Your entry is not in the correct format", 2, FormAnimator.AnimationMethod.Center, FormAnimator.AnimationDirection.Down);
+                toast.Show();
             }
             #endregion
         }
@@ -172,7 +173,8 @@ namespace Statistics_Tool
             }
             else
             {
-                MessageBox.Show("There is something wrong with your entries.", "Statistics Tool", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                Notification toast = new Notification("Data Analysis Tool", "Your entry is not in the correct format", 2, FormAnimator.AnimationMethod.Center, FormAnimator.AnimationDirection.Down);
+                toast.Show();
             }
             #endregion
         }
@@ -181,7 +183,7 @@ namespace Statistics_Tool
         #region frontend effects
         private void textBox1_Leave(object sender, EventArgs e)
         {
-            if(string.IsNullOrWhiteSpace(textBox1.Text.ToString()) || string.IsNullOrEmpty(textBox1.Text.ToString()))
+            if (string.IsNullOrWhiteSpace(textBox1.Text.ToString()) || string.IsNullOrEmpty(textBox1.Text.ToString()))
             {
                 textBox1.Text = "Enter array elements seperated by commas";
                 textBox1.ForeColor = System.Drawing.Color.Gray;
@@ -190,12 +192,12 @@ namespace Statistics_Tool
 
         private void textBox1_Enter(object sender, EventArgs e)
         {
-            if(textBox1.Text == "Enter array elements seperated by commas")
+            if (textBox1.Text == "Enter array elements seperated by commas")
             {
                 textBox1.Text = "";
                 textBox1.ForeColor = System.Drawing.Color.Black;
             }
         }
-        #endregion
+        #endregion  
     }
 }

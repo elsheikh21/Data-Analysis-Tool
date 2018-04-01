@@ -8,3 +8,13 @@ C:\Users\Sheikh\documents\visual studio 2015\Projects\Statistics Tool\Statistics
 C:\Users\Sheikh\documents\visual studio 2015\Projects\Statistics Tool\Statistics Tool\obj\Debug\Data_Analysis_Tool.Properties.Resources.resources
 C:\Users\Sheikh\documents\visual studio 2015\Projects\Statistics Tool\Statistics Tool\obj\Debug\Data Analysis Tool.exe
 C:\Users\Sheikh\documents\visual studio 2015\Projects\Statistics Tool\Statistics Tool\obj\Debug\Data Analysis Tool.pdb
+D:\Working Spaces\Visual Studio 2015\Projects\Data-Analysis-Tool-master\Statistics Tool\Statistics Tool\bin\Debug\Data Analysis Tool.exe.config
+D:\Working Spaces\Visual Studio 2015\Projects\Data-Analysis-Tool-master\Statistics Tool\Statistics Tool\bin\Debug\Data Analysis Tool.exe
+D:\Working Spaces\Visual Studio 2015\Projects\Data-Analysis-Tool-master\Statistics Tool\Statistics Tool\bin\Debug\Data Analysis Tool.pdb
+D:\Working Spaces\Visual Studio 2015\Projects\Data-Analysis-Tool-master\Statistics Tool\Statistics Tool\obj\Debug\Statistics_Tool.Histogram.resources
+D:\Working Spaces\Visual Studio 2015\Projects\Data-Analysis-Tool-master\Statistics Tool\Statistics Tool\obj\Debug\Statistics_Tool.MainForm.resources
+D:\Working Spaces\Visual Studio 2015\Projects\Data-Analysis-Tool-master\Statistics Tool\Statistics Tool\obj\Debug\Data_Analysis_Tool.Properties.Resources.resources
+D:\Working Spaces\Visual Studio 2015\Projects\Data-Analysis-Tool-master\Statistics Tool\Statistics Tool\obj\Debug\Statistics Tool.csproj.GenerateResource.Cache
+D:\Working Spaces\Visual Studio 2015\Projects\Data-Analysis-Tool-master\Statistics Tool\Statistics Tool\obj\Debug\Data Analysis Tool.exe
+D:\Working Spaces\Visual Studio 2015\Projects\Data-Analysis-Tool-master\Statistics Tool\Statistics Tool\obj\Debug\Data Analysis Tool.pdb
+D:\Working Spaces\Visual Studio 2015\Projects\Data-Analysis-Tool-master\Statistics Tool\Statistics Tool\obj\Debug\Statistics_Tool.Notification.resources
