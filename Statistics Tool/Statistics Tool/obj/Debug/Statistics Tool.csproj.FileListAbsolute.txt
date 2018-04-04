@@ -18,3 +18,9 @@ D:\Working Spaces\Visual Studio 2015\Projects\Data-Analysis-Tool-master\Statisti
 D:\Working Spaces\Visual Studio 2015\Projects\Data-Analysis-Tool-master\Statistics Tool\Statistics Tool\obj\Debug\Data Analysis Tool.exe
 D:\Working Spaces\Visual Studio 2015\Projects\Data-Analysis-Tool-master\Statistics Tool\Statistics Tool\obj\Debug\Data Analysis Tool.pdb
 D:\Working Spaces\Visual Studio 2015\Projects\Data-Analysis-Tool-master\Statistics Tool\Statistics Tool\obj\Debug\Statistics_Tool.Notification.resources
+C:\Users\ahmede\Documents\git\Data-Analysis-Tool\Statistics Tool\Statistics Tool\obj\Debug\Statistics Tool.csprojResolveAssemblyReference.cache
+C:\Users\ahmede\Documents\git\Data-Analysis-Tool\Statistics Tool\Statistics Tool\obj\Debug\Statistics_Tool.Histogram.resources
+C:\Users\ahmede\Documents\git\Data-Analysis-Tool\Statistics Tool\Statistics Tool\obj\Debug\Statistics_Tool.MainForm.resources
+C:\Users\ahmede\Documents\git\Data-Analysis-Tool\Statistics Tool\Statistics Tool\obj\Debug\Statistics_Tool.Notification.resources
+C:\Users\ahmede\Documents\git\Data-Analysis-Tool\Statistics Tool\Statistics Tool\obj\Debug\Data_Analysis_Tool.Properties.Resources.resources
+C:\Users\ahmede\Documents\git\Data-Analysis-Tool\Statistics Tool\Statistics Tool\obj\Debug\Statistics Tool.csproj.GenerateResource.Cache
